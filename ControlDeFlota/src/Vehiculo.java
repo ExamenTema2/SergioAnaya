@@ -1,6 +1,8 @@
 public class Vehiculo {
 
-// Sergio Anaya MARÍN
+// Sergio Anaya
+
+// Descripción: vehículo perteneciente a una flota de vehículos
 
 	private String matricula;
 	private String fabricante;
